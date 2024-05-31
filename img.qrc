@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="png">
+    <file>ico/cascade.png</file>
+    <file>ico/clear.png</file>
+    <file>ico/main.png</file>
+    <file>ico/refresh.png</file>
+    <file>ico/extract.png</file>
+    <file>ico/forcast.png</file>
+    <file>ico/interpolation.png</file>
+    <file>ico/line.png</file>
+    <file>ico/merge.png</file>
+    <file>ico/abnormal.png</file>
+    <file>ico/close.png</file>
+    <file>ico/edit.png</file>
+    <file>ico/file.png</file>
+    <file>ico/help.png</file>
+    <file>ico/ico.png</file>
+    <file>ico/new.png</file>
+    <file>ico/open.png</file>
+    <file>ico/save.png</file>
+    <file>ico/tool.png</file>
+    <file>ico/view.png</file>
+  </qresource>
+</RCC>
